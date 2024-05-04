@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;;;;;AAaA","sources":["src/styles/index.scss"],"sourcesContent":["html,\nbody,\nul,\np,\nh2,\nol {\n  margin: 0;\n  padding: 0;\n  font-family: Roboto, sans-serif;\n  font-size: 10px;\n  line-height: 14px;\n}\n\na{\n  width: 100%;\n}\n"],"names":[],"version":3,"file":"index.e378193d.css.map","sourceRoot":"/__parcel_source_root/"}
